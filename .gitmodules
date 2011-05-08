@@ -1,3 +1,9 @@
 [submodule "javascript-last.fm-api"]
 	path = javascript-last.fm-api
 	url = https://github.com/clifff/javascript-last.fm-api.git
+[submodule "ext/javascript-last.fm-api"]
+	path = ext/javascript-last.fm-api
+	url = https://github.com/clifff/javascript-last.fm-api.git
+[submodule "ext/script.js"]
+	path = ext/script.js
+	url = https://github.com/ded/script.js.git
