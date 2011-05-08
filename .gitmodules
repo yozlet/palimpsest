@@ -1,0 +1,3 @@
+[submodule "javascript-last.fm-api"]
+	path = javascript-last.fm-api
+	url = https://github.com/clifff/javascript-last.fm-api.git
